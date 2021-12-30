@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './pages/Navbar';
 import AddTask from './pages/AddTask';
 import axios from 'axios';
-import EditTask from './EditTask';
+import EditTask from './pages/EditTask';
 // import ViewTask from './ViewTask';
 axios.defaults.baseURL = 'http://localhost:8000/';
 
